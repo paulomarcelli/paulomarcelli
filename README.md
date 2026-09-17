@@ -21,7 +21,7 @@
 | Ensino de inglês e espanhol | [Fisk](https://www.fisk.com.br/) | 3 anos de experiência |
 
 <div align="center">
-  <img src="./assets/apex-america.png" alt="Logo da Apex America" width="140" />
+  <img src="./assets/apex-america-logo.png" alt="Logo da Apex America" width="140" />
   <img src="./assets/fecap.png" alt="Logo da FECAP" width="140" />
   <img src="./assets/fisk.png" alt="Logo da Fisk" width="140" />
 </div>
