@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="./assets/fecap.png" alt="Logo da FECAP" width="140" />
-  <img src="./assets/fisk.png" alt="Logo da Fisk" width="140" />
-</div>
-
 <h1 align="center">Olá, eu sou Paulo Marcelli</h1>
 
 <p align="center">
@@ -22,6 +17,11 @@
 | --- | --- | --- |
 | Análise e Desenvolvimento de Sistemas | [FECAP](https://www.fecap.br/) | Em andamento |
 | Ensino de inglês e espanhol | [Fisk](https://www.fisk.com.br/) | 3 anos de experiência |
+
+<div align="center">
+  <img src="./assets/fecap.png" alt="Logo da FECAP" width="140" />
+  <img src="./assets/fisk.png" alt="Logo da Fisk" width="140" />
+</div>
 
 ## Objetivos
 
