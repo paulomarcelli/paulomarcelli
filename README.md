@@ -2,6 +2,8 @@
 
 # Olá, eu sou o Paulo Marcelli 👋
 
+<a href="https://github.com/paulomarcelli/Projetos"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=C8102E&center=true&vCenter=true&width=620&lines=RAG+e+GraphRAG+com+fontes;Automa%C3%A7%C3%B5es+com+n8n+e+Machine+Learning;Landing+pages+animadas+em+3D;Jogos+feitos+com+IA" alt="RAG e GraphRAG com fontes · Automações com n8n e Machine Learning · Landing pages animadas em 3D · Jogos feitos com IA" /></a>
+
 **Estudante de Análise e Desenvolvimento de Sistemas na FECAP. Construo com IA:**<br>
 **sistemas com RAG e agentes, automações, landing pages animadas em 3D e jogos.**
 
@@ -19,6 +21,10 @@
 - 🍎 Fui **professor de inglês e espanhol** na [Fisk](https://www.fisk.com.br/) por 3 anos.
 - 🤖 Gosto de usar IA para construir coisas de verdade: análise com fontes, automações que me poupam tempo e sites que dão vontade de rolar até o fim.
 - ✍️ Escrevo no [Substack](https://paulomarcelli.substack.com/) sobre os bastidores dos projetos: o que eu decidi, o que a IA fez e o que deu errado.
+
+**Agora:**
+- 🔭 desenvolvendo a [Iris](https://github.com/paulomarcelli/Projetos/tree/main/Projetos/Iris) (cenários de Relações Internacionais) e o jogo [Aurora](https://github.com/paulomarcelli/Projetos/tree/main/Projetos/Aurora-Jogo);
+- 📚 estudando banco de dados (Oracle, MySQL e PL/SQL), Programação Orientada a Objetos em C# e desenvolvimento full stack na faculdade.
 
 ## Projetos em destaque
 
