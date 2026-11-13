@@ -1,0 +1,24 @@
+name: Atualizar posts do Substack
+
+# Lê o feed do Substack e atualiza a lista entre <!-- SUBSTACK:START --> e <!-- SUBSTACK:END --> no README.
+on:
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  atualizar:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Buscar os últimos posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://paulomarcelli.substack.com/feed"
+          comment_tag_name: "SUBSTACK"
+          max_post_count: 3
+          template: "- [$title]($url)$newline"
+          commit_message: "Atualiza os últimos posts do Substack"
