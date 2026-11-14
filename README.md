@@ -1,32 +1,34 @@
 <div align="center">
 
-# Olá, eu sou o Paulo Marcelli 👋
+<img src="./assets/caos/banner.svg" alt="Paulo Marcelli: desenvolvedor, IA, jogos e 3D" width="100%" />
 
-<a href="https://github.com/paulomarcelli/Projetos"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=C8102E&center=true&vCenter=true&width=620&lines=RAG+e+GraphRAG+com+fontes;Automa%C3%A7%C3%B5es+com+n8n+e+Machine+Learning;Landing+pages+animadas+em+3D;Jogos+feitos+com+IA" alt="RAG e GraphRAG com fontes · Automações com n8n e Machine Learning · Landing pages animadas em 3D · Jogos feitos com IA" /></a>
+<a href="https://github.com/paulomarcelli/Projetos"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=2800&pause=900&color=FF1F3D&center=true&vCenter=true&width=640&lines=RAG+e+GraphRAG+com+fontes;Automa%C3%A7%C3%B5es+com+n8n+e+Machine+Learning;Landing+pages+animadas+em+3D;Jogos+feitos+com+IA" alt="RAG e GraphRAG com fontes · Automações com n8n e Machine Learning · Landing pages animadas em 3D · Jogos feitos com IA" /></a>
 
 **Estudante de Análise e Desenvolvimento de Sistemas na FECAP. Construo com IA:**<br>
 **sistemas com RAG e agentes, automações, landing pages animadas em 3D e jogos.**
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0a0a0b?style=for-the-badge&logo=githubpages&logoColor=white)](https://paulomarcelli.github.io/Projetos/Projetos/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-marcelli-06a7bb304/)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://paulomarcelli.substack.com/)
-[![Todos os projetos](https://img.shields.io/badge/Todos_os_projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulomarcelli/Projetos)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0a0204?style=for-the-badge&logo=githubpages&logoColor=ff1f3d)](https://paulomarcelli.github.io/Projetos/Projetos/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0204?style=for-the-badge&logo=linkedin&logoColor=ff1f3d)](https://www.linkedin.com/in/paulo-marcelli-06a7bb304/)
+[![Substack](https://img.shields.io/badge/Substack-0a0204?style=for-the-badge&logo=substack&logoColor=ff1f3d)](https://paulomarcelli.substack.com/)
+[![Todos os projetos](https://img.shields.io/badge/Todos_os_projetos-0a0204?style=for-the-badge&logo=github&logoColor=ff1f3d)](https://github.com/paulomarcelli/Projetos)
+
+<img src="./assets/caos/divisor.svg" alt="" width="100%" />
 
 </div>
 
-## Sobre mim
+<img src="./assets/caos/sobre.svg" alt="Sobre mim" height="56" />
 
 - 🎓 Curso **Análise e Desenvolvimento de Sistemas (ADS)** na [FECAP](https://www.fecap.br/).
 - 💬 Sou **consultor de atendimento trilíngue** (português, inglês e espanhol) na [Apex America](https://apexamerica.com.br/).
 - 🍎 Fui **professor de inglês e espanhol** na [Fisk](https://www.fisk.com.br/) por 3 anos.
-- 🤖 Gosto de usar IA para construir coisas de verdade: análise com fontes, automações que me poupam tempo e sites que dão vontade de rolar até o fim.
+- 🔮 Gosto de usar IA para construir coisas de verdade: análise com fontes, automações que me poupam tempo e sites que dão vontade de rolar até o fim.
 - ✍️ Escrevo no [Substack](https://paulomarcelli.substack.com/) sobre os bastidores dos projetos: o que eu decidi, o que a IA fez e o que deu errado.
 
-**Agora:**
+**Feitiços em andamento:**
 - 🔭 desenvolvendo a [Iris](https://github.com/paulomarcelli/Projetos/tree/main/Projetos/Iris) (cenários de Relações Internacionais) e o jogo [Aurora](https://github.com/paulomarcelli/Projetos/tree/main/Projetos/Aurora-Jogo);
 - 📚 estudando banco de dados (Oracle, MySQL e PL/SQL), Programação Orientada a Objetos em C# e desenvolvimento full stack na faculdade.
 
-## Projetos em destaque
+<img src="./assets/caos/grimorio.svg" alt="Grimório de projetos" height="56" />
 
 <table>
   <tr>
@@ -95,9 +97,9 @@
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/paulomarcelli/Projetos"><b>Ver todos os projetos →</b></a></p>
+<p align="center"><a href="https://github.com/paulomarcelli/Projetos"><b>Abrir o grimório inteiro →</b></a></p>
 
-## Últimos posts no Substack
+<img src="./assets/caos/escritos.svg" alt="Escritos no Substack" height="56" />
 
 <!-- SUBSTACK:START -->
 - [Eu não baixei esse celular: desenhei um Galaxy S26 Ultra inteiro em código](https://paulomarcelli.substack.com/p/eu-nao-baixei-esse-celular-desenhei)
@@ -107,40 +109,40 @@
 
 <sub>A lista se atualiza sozinha todo dia, a partir do feed do Substack.</sub>
 
-## O que eu uso
+<img src="./assets/caos/arsenal.svg" alt="Arsenal" height="56" />
 
 **IA e dados**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a0508?style=flat-square&logo=python&logoColor=ff1f3d&labelColor=0a0204)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a0508?style=flat-square&logo=fastapi&logoColor=ff1f3d&labelColor=0a0204)
+![Neo4j](https://img.shields.io/badge/Neo4j-1a0508?style=flat-square&logo=neo4j&logoColor=ff1f3d&labelColor=0a0204)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a0508?style=flat-square&logo=scikitlearn&logoColor=ff1f3d&labelColor=0a0204)
+![n8n](https://img.shields.io/badge/n8n-1a0508?style=flat-square&logo=n8n&logoColor=ff1f3d&labelColor=0a0204)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a0508?style=flat-square&logo=openai&logoColor=ff1f3d&labelColor=0a0204)
+![Gemini](https://img.shields.io/badge/Gemini-1a0508?style=flat-square&logo=googlegemini&logoColor=ff1f3d&labelColor=0a0204)
+![Claude](https://img.shields.io/badge/Claude-1a0508?style=flat-square&logo=anthropic&logoColor=ff1f3d&labelColor=0a0204)
 
 **Web e 3D**<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-1a0508?style=flat-square&logo=html5&logoColor=ff1f3d&labelColor=0a0204)
+![CSS3](https://img.shields.io/badge/CSS3-1a0508?style=flat-square&logo=css3&logoColor=ff1f3d&labelColor=0a0204)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0508?style=flat-square&logo=javascript&logoColor=ff1f3d&labelColor=0a0204)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0508?style=flat-square&logo=typescript&logoColor=ff1f3d&labelColor=0a0204)
+![React](https://img.shields.io/badge/React-1a0508?style=flat-square&logo=react&logoColor=ff1f3d&labelColor=0a0204)
+![Vite](https://img.shields.io/badge/Vite-1a0508?style=flat-square&logo=vite&logoColor=ff1f3d&labelColor=0a0204)
+![Three.js](https://img.shields.io/badge/Three.js-1a0508?style=flat-square&logo=threedotjs&logoColor=ff1f3d&labelColor=0a0204)
+![GSAP](https://img.shields.io/badge/GSAP-1a0508?style=flat-square&logo=greensock&logoColor=ff1f3d&labelColor=0a0204)
 
 **Jogos, banco de dados e ferramentas**<br>
-![PixiJS](https://img.shields.io/badge/PixiJS-E72264?style=flat-square&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser-8B5CF6?style=flat-square&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_(Oracle_%C2%B7_MySQL)-F29111?style=flat-square&logo=oracle&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![PixiJS](https://img.shields.io/badge/PixiJS-1a0508?style=flat-square&labelColor=0a0204)
+![Phaser](https://img.shields.io/badge/Phaser-1a0508?style=flat-square&labelColor=0a0204)
+![Godot](https://img.shields.io/badge/Godot-1a0508?style=flat-square&logo=godotengine&logoColor=ff1f3d&labelColor=0a0204)
+![SQL (Oracle · MySQL)](https://img.shields.io/badge/SQL_%28Oracle_%C2%B7_MySQL%29-1a0508?style=flat-square&logo=oracle&logoColor=ff1f3d&labelColor=0a0204)
+![C#](https://img.shields.io/badge/C%23-1a0508?style=flat-square&logo=dotnet&logoColor=ff1f3d&labelColor=0a0204)
+![Git](https://img.shields.io/badge/Git-1a0508?style=flat-square&logo=git&logoColor=ff1f3d&labelColor=0a0204)
+![Figma](https://img.shields.io/badge/Figma-1a0508?style=flat-square&logo=figma&logoColor=ff1f3d&labelColor=0a0204)
+![Blender](https://img.shields.io/badge/Blender-1a0508?style=flat-square&logo=blender&logoColor=ff1f3d&labelColor=0a0204)
+![Notion](https://img.shields.io/badge/Notion-1a0508?style=flat-square&logo=notion&logoColor=ff1f3d&labelColor=0a0204)
 
-## Formação e experiência
+<img src="./assets/caos/trajetoria.svg" alt="Trajetória" height="56" />
 
 | | Onde | Quando |
 | --- | --- | --- |
@@ -156,21 +158,25 @@
 
 **Idiomas:** 🇧🇷 português (nativo) · 🇺🇸 inglês (fluente) · 🇪🇸 espanhol (fluente)
 
-## No GitHub
-
-<div align="center">
-  <a href="https://github.com/paulomarcelli">
-    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulomarcelli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=paulomarcelli&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" />
-  </a>
-</div>
+<img src="./assets/caos/realidade.svg" alt="A realidade no GitHub" height="56" />
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulomarcelli/paulomarcelli/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulomarcelli/paulomarcelli/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/paulomarcelli/paulomarcelli/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulomarcelli/paulomarcelli/output/realidade-escura.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulomarcelli/paulomarcelli/output/realidade-clara.svg" />
+    <img alt="Calendário de contribuições: uma onda de magia sai do dia de hoje e reescreve o ano, que mostra a palavra CAOS e depois volta ao normal" src="https://raw.githubusercontent.com/paulomarcelli/paulomarcelli/output/realidade-escura.svg" width="100%" />
   </picture>
 </p>
 
-<p align="center"><sub>Obrigado pela visita! Se algum projeto te interessou, me chama no <a href="https://www.linkedin.com/in/paulo-marcelli-06a7bb304/">LinkedIn</a>.</sub></p>
+<div align="center">
+  <a href="https://github.com/paulomarcelli">
+    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulomarcelli&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0a0204&title_color=ff1f3d&icon_color=ff4d6d&text_color=f6d6dc&border_color=7a0a1c" alt="Estatísticas do GitHub" />
+    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=paulomarcelli&layout=compact&langs_count=8&locale=pt-br&bg_color=0a0204&title_color=ff1f3d&icon_color=ff4d6d&text_color=f6d6dc&border_color=7a0a1c" alt="Linguagens mais usadas" />
+  </a>
+</div>
+
+<div align="center">
+<img src="./assets/caos/divisor.svg" alt="" width="100%" />
+
+<sub>Obrigado pela visita! Se algum projeto te interessou, me chama no <a href="https://www.linkedin.com/in/paulo-marcelli-06a7bb304/">LinkedIn</a>.</sub>
+</div>
