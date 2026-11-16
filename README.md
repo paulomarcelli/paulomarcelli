@@ -49,21 +49,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/paulomarcelli/Projetos/tree/main/Projetos/Cacador-de-Vagas"><img src="https://raw.githubusercontent.com/paulomarcelli/Projetos/main/Projetos/Cacador-de-Vagas/docs/fluxo-01.webp" alt="Fluxo do Caçador de Vagas no editor do n8n"></a>
-      <h3>🎯 Caçador de Vagas</h3>
-      O <b>n8n</b> lê os alertas de vaga do LinkedIn, a IA dá uma nota para cada vaga e um modelo de <b>Machine Learning</b> aprende o meu gosto e compete com ela.<br>
-      <sub>n8n · OpenAI · scikit-learn · Notion API · Python</sub><br><br>
-      <a href="https://github.com/paulomarcelli/Projetos/tree/main/Projetos/Cacador-de-Vagas"><b>Ver o código ↗</b></a>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://paulomarcelli.github.io/Projetos/Projetos/Luna/"><img src="https://raw.githubusercontent.com/paulomarcelli/Projetos/main/docs/capas/luna.webp" alt="LUNA MIND"></a>
       <h3>🌙 LUNA MIND</h3>
       Assistente de apoio emocional por texto e voz, publicada, com RAG com fontes e uma camada de segurança em código.<br>
       <sub>Python · Flask · OpenAI · Gemini</sub><br><br>
       <a href="https://paulomarcelli.github.io/Projetos/Projetos/Luna/"><b>Abrir a Luna ↗</b></a> · <a href="https://github.com/paulomarcelli/Projetos/tree/main/Projetos/Luna-AI">Código</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://paulomarcelli.github.io/Projetos/Projetos/Karol-x-Samsung/"><img src="https://raw.githubusercontent.com/paulomarcelli/Projetos/main/docs/capas/karol-samsung.webp" alt="Karol × Samsung: o Galaxy S26 Ultra em 3D"></a>
       <h3>📱 Karol × Samsung</h3>
@@ -71,6 +62,8 @@
       <sub>Three.js · GSAP · Vite · projeto pessoal de fã</sub><br><br>
       <a href="https://paulomarcelli.github.io/Projetos/Projetos/Karol-x-Samsung/"><b>Abrir o site ↗</b></a> · <a href="https://github.com/paulomarcelli/Projetos/tree/main/Projetos/landing%20page%20Karol%20Sevilla%20x%20Samsung">Código</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://paulomarcelli.github.io/Projetos/Projetos/Portfolio/"><img src="https://raw.githubusercontent.com/paulomarcelli/Projetos/main/docs/capas/portfolio.webp" alt="Portfólio: um túnel 3D com as telas dos projetos"></a>
       <h3>🌀 Portfólio</h3>
@@ -78,8 +71,6 @@
       <sub>Three.js · GSAP · Vite</sub><br><br>
       <a href="https://paulomarcelli.github.io/Projetos/Projetos/Portfolio/"><b>Abrir o portfólio ↗</b></a> · <a href="https://github.com/paulomarcelli/Projetos/tree/main/Projetos/Portfolio">Código</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://paulomarcelli.github.io/Projetos/Projetos/Una-Noche-Mas/"><img src="https://raw.githubusercontent.com/paulomarcelli/Projetos/main/docs/capas/una-noche-mas.webp" alt="Site Una Noche Más"></a>
       <h3>🌙 Una Noche Más</h3>
@@ -87,6 +78,8 @@
       <sub>HTML · CSS · JavaScript</sub><br><br>
       <a href="https://paulomarcelli.github.io/Projetos/Projetos/Una-Noche-Mas/"><b>Nova ↗</b></a> · <a href="https://paulomarcelli.github.io/Projetos/Projetos/Una-Noche-Mas/classic/">Original</a> · <a href="https://github.com/paulomarcelli/Projetos/tree/main/Projetos/Una-Noche-Mas">Código</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://paulomarcelli.github.io/Projetos/Projetos/Aurora/"><img src="https://raw.githubusercontent.com/paulomarcelli/Projetos/main/docs/capas/aurora.webp" alt="Aurora: O Dízimo da Lua"></a>
       <h3>🏹 Aurora: O Dízimo da Lua</h3>
