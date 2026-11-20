@@ -94,10 +94,9 @@
 
 <img src="./assets/caos/escritos.svg" alt="Escritos no Substack" height="56" />
 
-<!-- SUBSTACK:START -->
+<!-- SUBSTACK:START -->- [Uma voz e nenhum vídeo: os bastidores do fã-site da Sofia Carson](https://paulomarcelli.substack.com/p/uma-voz-e-nenhum-video-os-bastidores)
 - [Eu não baixei esse celular: desenhei um Galaxy S26 Ultra inteiro em código](https://paulomarcelli.substack.com/p/eu-nao-baixei-esse-celular-desenhei)
 - [Uma IA consegue aplicar Gestalt?](https://paulomarcelli.substack.com/p/uma-ia-consegue-aplicar-gestalt)
-- [Dá para confiar numa IA quando o assunto é saúde mental?](https://paulomarcelli.substack.com/p/da-para-confiar-numa-ia-quando-o)
 <!-- SUBSTACK:END -->
 
 <sub>A lista se atualiza sozinha todo dia, a partir do feed do Substack.</sub>
